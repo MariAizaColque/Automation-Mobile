@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Appium Test">
+    <test name="Appium APK Test">
+        <classes>
+            <!--<class name="TodoPasaje.Tests.LoginTest"/>-->
+            <!--<class name="TodoPasaje.Tests.RecoverAccountTest"/>-->
+            <!--<class name="TodoPasaje.Tests.CreateAccountTest"/>-->
+            <!--<class name="TodoPasaje.Tests.SearchFlightTest"/>-->
+            <class name="TodoPasaje.Tests.SelectFlightTest"/>
+        </classes>
+    </test>
+</suite>
